@@ -33,7 +33,7 @@ export default {
   }
   li {
     display: block;
-    margin: 010px;
+    margin: 0 10px;
   }
 
 </style>
